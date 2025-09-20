@@ -2,4 +2,4 @@
 
 ![](banner/banner.jpg)
 
-I am an environmental epidemiologist and physicist who has diverse experience in large-scale multi-disciplinary quantitative research focused on climate-related exposures, public health and equity. I am a tenure-track Assistant Professor of Environmental Health Sciences at Columbia University's Mailman School of Public Health and an NIH NIEHS K99/R00 Fellow. I am also the Lead Instructor of the Columbia University SHARP Course Bayesian Modeling for Environmental Health. I was a Columbia University Earth Institute/Climate School Post-doctoral Fellow from 2019 to 2022 with Prof. Marianthi-Anna Kioumourtzoglou, completed my PhD at the School of Public Health at Imperial College London with Profs. Majid Ezzati and Ralf Toumi in 2019, and graduated with a BA/MA (Oxon) in Physics from the Keble College, University of Oxford. I am proudly both a first-gen academic and an Agents of Change in Environmental Justice Senior Fellow.
+Assistant professor, Columbia University. PI of SPARK Lab NYC.
